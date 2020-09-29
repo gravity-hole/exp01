@@ -3,6 +3,7 @@ using namespace std;
 int line[100000];
 int main()                                      //运用静态链表
 {
+    
     int n;
     cin >> n;
     for(int i = 0; i < n; i++){                 
